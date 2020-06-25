@@ -1,0 +1,15 @@
+{'Name': 'Yami', 'Department': 'HR', 'Annual Salary': 900000, 'Tax': 108000.0}
+{'Name': 'Jim', 'Department': 'Sales', 'Annual Salary': 123452, 'Tax': 9876.16}
+{'Name': 'Hrishabh', 'Department': 'HR', 'Annual Salary': 342345, 'Tax': 27387.600000000002}
+{'Name': 'Ena', 'Department': 'Sales', 'Annual Salary': 34267, 'Tax': 2741.36}
+{'Name': 'Payal', 'Department': 'HR', 'Annual Salary': 5000000, 'Tax': 800000.0}
+{'Name': 'Hitesh', 'Department': 'HR', 'Annual Salary': 7000000, 'Tax': 1120000.0}
+{'Name': 'Kiya', 'Department': 'Sales', 'Annual Salary': 222222, 'Tax': 17777.760000000002}
+{'Name': 'Golu', 'Department': 'Marketing', 'Annual Salary': 89000000, 'Tax': 14240000}
+{'Name': 'Jima', 'Department': 'HR', 'Annual Salary': 234555, 'Tax': 18764}
+{'Name': 'Gargerr', 'Department': 'HR', 'Annual Salary': 50000000, 'Tax': 8000000}
+{'Name': 'Ronakk', 'Department': 'HR', 'Annual Salary': 567000, 'Tax': 45360}
+{'Name': 'Ishita', 'Department': 'Sales', 'Annual Salary': 3485555, 'Tax': 557688}
+{'Name': 'Qwerty', 'Department': 'HR', 'Annual Salary': 78900000, 'Tax': 12624000}
+{'Name': 'Hemant', 'Department': 'HR', 'Annual Salary': 4000000, 'Tax': 640000}
+{'Name': 'Jatin Pal Singh', 'Department': 'HR', 'Annual Salary': 50000000, 'Tax': 8000000}
